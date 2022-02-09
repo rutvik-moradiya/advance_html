@@ -1,0 +1,9 @@
+             * {
+                 margin: auto;
+             }
+          .navbar-nav li {
+              padding-right: 50px;
+          }
+          .navbar-nav li a{
+              font-size: 18px;
+          }
